@@ -1,6 +1,6 @@
 # SmartBiz Dashboard
 
-Author:Sudhama Mattegunta  
+Author : Sudhama Mattegunta  
 ---
 
 ## Overview
